@@ -2,7 +2,7 @@
 
 Game memori kartu bertema anime Bleach, dibuat pakai HTML, CSS, dan JavaScript.
 
-🔗 **Main di sini:** (tempel link websitenya)
+🔗 **Main di sini:** https://muqorobin298-lab.github.io/Robin_Dev/Memori-Bleach/
 
 ## Fitur
 - 16 kartu kanji, cari 8 pasangan
